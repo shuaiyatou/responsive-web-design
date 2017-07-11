@@ -16,7 +16,7 @@ $(function(){
     $('#jump').click(function(e){
         $('#jump').removeClass('active');
         e.preventDefault();
-        window.location.href='index.html'
+        window.location.href='back_stage.html'
     });
 
 

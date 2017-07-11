@@ -16,6 +16,7 @@ body{
 
 }
 
+
 .navbar-default .navbar-nav>li>a{
     font-weight: bold;
     color:#666;
@@ -37,6 +38,10 @@ body{
     background: url("../img/home-bg.jpg");
     text-align: center;
     color:white;
+}
+
+#home .col-md-10{
+    margin-bottom: 50px;
 }
 
 #home .h-one{
